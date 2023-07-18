@@ -1,8 +1,7 @@
 # Session by Ms. Manmeet & Ms. Moumita
 
 ## Topic Of The Session: Self-Introduction
-
-    - Look out for grammar, punctuation, small/big letters
+- Look out for grammar, punctuation, small/big letters
 
     - Wrong to say “i'm doing …. from ……” - create your text more presentable
 
