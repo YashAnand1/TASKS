@@ -1,6 +1,6 @@
-- Session by Ms. Manmeet & Ms. Moumita
+# Session by Ms. Manmeet & Ms. Moumita
 
-- Topic Of The Session: Self-Introduction
+## Topic Of The Session: Self-Introduction
 
     - Look out for grammar, punctuation, small/big letters
 
@@ -30,7 +30,7 @@
 
     - Try to make your weaknesses into your strengths, search the internet for such ideas
 
-- TLDR:
+## TLDR:
 
     - Be sure to follow a structure of introduction - be consistently formal
 
@@ -50,7 +50,7 @@
 
     - Be prepared to answer how you plan on working on your weaknesses
 
-- Questions:
+## Questions:
 
     - How often do you use bullet points? Not too often
 
@@ -58,7 +58,7 @@
 
     - How acceptable is being cheesy? NOT ACCEPTABLE!
 
-- Tasks To Submit By EOD:
+## Tasks To Submit:
 
     - Journey with Keen & Able mail
 
