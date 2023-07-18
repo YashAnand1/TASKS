@@ -1,6 +1,6 @@
-# Session by 
-# Ms. Manmeet & Ms. Moumita
-
+# Session by Ms. Manmeet & Ms. Moumita
+_______
+_____
 ## Topic Of The Session: Self-Introduction
 - Look out for grammar, punctuation, small/big letters
 - Wrong to say “i'm doing …. from ……” - create your text more presentable
@@ -16,7 +16,7 @@
 - Don’t use words that can create misunderstanding, don't say I want to provide a satisfactory work, say I want to provide excellent work
 - Explain skills acquired at work, be sure of what you say so that you can handle the interviewer.
 - Try to make your weaknesses into your strengths, search the internet for such ideas
-
+_____
 ## TLDR:
 - Be sure to follow a structure of introduction - be consistently formal
 - Use flowery & presentable language with strong grammar
@@ -27,12 +27,13 @@
 - “One of my strengths” - only include one strength - be sure of what you write
 - Be sure to include your proficiency in things you have learned here - intermediate, basic, experienced? - Goes out to show how well you know about yourself
 - Be prepared to answer how you plan on working on your weaknesses
-
+______
 ## Questions:
 - How often do you use bullet points? Not too often
 - Should you explain your proficiency in the things you have learnt? Yes
 - How acceptable is being cheesy? NOT ACCEPTABLE!
-
+____
 ## Tasks To Submit:
 - Journey with Keen & Able mail
 - Self-introduction mail
+______
