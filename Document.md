@@ -1,6 +1,7 @@
-# Session by Ms. Manmeet & Ms. Moumita
+# July Sessiona by Ms. Manmeet & Ms. Moumita
 _______
 _____
+## 18 July
 ## Topic Of The Session: Self-Introduction
 - Look out for grammar, punctuation, small/big letters
 - Wrong to say “i'm doing …. from ……” - create your text more presentable
