@@ -1,4 +1,4 @@
-# July Sessiona by Ms. Manmeet & Ms. Moumita
+# July Sessions by Ms. Manmeet & Ms. Moumita
 _______
 _____
 ## 18 July
